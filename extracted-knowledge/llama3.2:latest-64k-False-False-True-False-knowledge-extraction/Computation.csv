@@ -1,4 +1,3 @@
-"subject","predicate","object"
 "Computation","hasNotes","Notes"
 "Computation","hasPrerequisiteComputation","Computation"
 "Computation","hasExperiment","Experiment"

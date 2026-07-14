@@ -1,4 +1,3 @@
-"subject","predicate","object"
 "PhysicalProcess","hasLocation","Location"
 "PhysicalProcess","hasProduct","Material"
 "PhysicalProcess,hasProduct","hasWaste""","Material"""

@@ -3,7 +3,6 @@
 "* ""Software","hasName","xsd:string"""
 "* ""Software","hasSource","Source"""
 "* ""Software","subClassOf","Node"""
-"subject","predicate","object"
 "Software","hasVersion","xsd:string"
 "Source","asString","xsd:string"
 "Software","hasName","xsd:string"

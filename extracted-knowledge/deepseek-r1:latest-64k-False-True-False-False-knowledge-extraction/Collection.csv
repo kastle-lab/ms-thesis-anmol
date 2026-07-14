@@ -8,7 +8,6 @@
 "- (Collection","hasProject): Even though not explicitly stated","the discussion about collaborations suggests this relationship might be inferred."
 "- (Collection","hasDOI) and (Collection","hasCitation): These are clearly supported by the DOI provided and citation details."
 "I need to make sure I don't include anything hypothetical or unsupported. The direct data points from experiments should be included as separate triples if they match any schema patterns","but in this case","only the general ""hasExperiment"" fits."
-"subject","predicate","object"
 "Collection","hasExperiment","Dielectric spectroscopy"
 "Collection","hasExperiment","Absorption current measurements"
 "Collection","hasExperiment","Thermally stimulated depolarization (TSC)"

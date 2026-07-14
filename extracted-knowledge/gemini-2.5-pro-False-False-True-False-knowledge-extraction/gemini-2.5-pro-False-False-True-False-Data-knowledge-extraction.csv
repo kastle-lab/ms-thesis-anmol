@@ -1,111 +1,111 @@
-Data,"hasSamplePreparation, hasPhysicalProcess",Formulation
-Data,"hasSamplePreparation, hasPhysicalProcess",Melt mixing
-Data,"hasSamplePreparation, hasPhysicalProcess",Compounding
-Data,"hasSamplePreparation, hasPhysicalProcess",Vacuum drying
-Data,"hasSamplePreparation, hasPhysicalProcess",Hot pressing
-Data,"hasSamplePreparation, hasPhysicalProcess",Slow cooling
-Data,"hasSamplePreparation, hasPhysicalProcess",Post-curing
-Data,"hasSamplePreparation, hasPhysicalProcess",Annealing
-Data,"hasSamplePreparation, hasPhysicalProcess",Sputtering
-Data,"hasSamplePreparation, hasPhysicalProcess",Cryo-crushing
-Data,"hasSamplePreparation, hasPhysicalProcess",Argon cleaning
-Data,hasComputation,Linear least squares optimization
-Data,hasComputation,Simplex peak-fitting algorithm
-Data,hasComputation,Stoichiometric formula
-Data,hasComputation,2-parameter Weibull distribution
-Data,hasComputation,Lichtenecker–Rother logarithmic formula
-Data,hasComputation,Maxwell–Garnet random mixing formula
-Data,hasComputation,Landau–Lifshitz power law formula
-Data,hasComputation,Normalization method
-Data,hasComputation,Initial rise method
-Data,hasComputation,Arrhenius plot
-Data,hasComputation,Malec et al. method
-Data,hasComputation,Artbauer chain scission mechanism
-Data,hasType,Electron Paramagnetic Resonance
-Electron Paramagnetic Resonance,asString,"Electron Paramagnetic Resonance"
-Data,hasType,X-ray Photoelectron Spectroscopy
-X-ray Photoelectron Spectroscopy,asString,"X-ray Photoelectron Spectroscopy"
-Data,hasType,DC breakdown strength
-DC breakdown strength,asString,"DC breakdown strength"
-Data,hasType,Long-term voltage endurance
-Long-term voltage endurance,asString,"Long-term voltage endurance"
-Data,hasType,Dielectric spectroscopy
-Dielectric spectroscopy,asString,"Dielectric spectroscopy"
-Data,hasType,Thermally stimulated current
-Thermally stimulated current,asString,"Thermally stimulated current"
-Data,hasType,Absorption current
-Absorption current,asString,"Absorption current"
-Data,hasType,Space charge measurements
-Space charge measurements,asString,"Space charge measurements"
-Data,hasCitation,"doi:10.1007/s10853-006-0413-0"
-Data,hasCitation,"Nelson J, Fothergill JC (2004) Nanotechnology 15:586"
-Data,hasCitation,"Ma D, Siegel RW, Hong JI, Schadler LS, Mårtensson E, Önneby C (2004) J Mater Res 19(3):857"
-Data,hasCitation,"Nelson JK, Hu Y (2005) J Phys D (Appl Phys) 38:213"
-Data,hasCitation,"Nelson JK, Fothergill JC, Dissado LA, Peasgood W (2002) In: Proceedings of the conference on Elec Insul & Dielec Phenom, IEEE, Mexico, pp 295–298"
-Data,hasCitation,"Montanari GC, Fabiani D, Palmieri F, Kaempfer D, Thomann R, Mülhaupt R (2004) IEEE Trans Diel Elect Insul 11(5):754"
-Data,hasCitation,"Ajayan PM, Braun PV, Schadler LS (2003) In: Nanocomposite Science and Technology, Wiley-VCH Verlag, GmbH&Co. KgaA, Weinham"
-Data,hasCitation,"Tanaka T, Montanari GC, Mülhaupt R (2004) IEEE Trans Diel Elect Insul 11/5:763"
-Data,hasCitation,"Lewis TJ (1994) IEEE Trans Diel Elect Insul 1:812"
-Data,hasCitation,"Lewis TJ (2004) IEEE Trans Diel Elect Insul 11:739"
-Data,hasCitation,"Fujita F, Ruike M, Baba M (1996) Conference record of the 1996. IEEE Intl Symp Elec Ins, IEEE, San Francisco 2:738"
-Data,hasCitation,"Khalil MS, Henk PO, Henriksen M (1990) Conference record of the 1990 IEEE International Symp on Elec. Insul; IEEE, Montreal, Canada, p 268"
-Data,hasCitation,"Fothergill JC, Nelson JK, Fu M (2004) Proceedings of the IEEE Conf on Elect Insul & Diel Phenom, CEIDP, Oct. 17– 20. pp 406–409"
-Data,hasCitation,"Ma D, Akpalu YA, Li Y, Siegel RW, Schadler LS (2005) J Polym Sci Part B Polym Phys 43(5):463"
-Data,hasCitation,"Malec D, Truong H, Essolbi R, Hoand TG (1998) IEEE Trans Diel Elect Insul 5/2:301"
-Data,hasCitation,"Roy M, Nelson JK, MacCrone RK, Schadler LS, Reed CW, Keefe R, Zenger W (2005) IEEE Trans Diel Elect Insul 12:629"
-Data,hasCitation,"Lunsford JH (1973) Catal Rev 8(1):135"
-Data,hasCitation,"Canet D (1996) Nuclear magnetic resonance: concepts and methods. John Wiley & Sons Inc., Chichester, New York"
-Data,hasCitation,"Dissado LA, Fothergill JC (1992) Electrical degradation and breakdown in polymers. Peter Peregrinus Ltd"
-Data,hasCitation,"Ieda M, Mizutani T, Suzuoki Y (1980) Polymers, Memoirs of the Faculty of Engineering, Nagoya University, 32/2"
-Data,hasCitation,"Peacock JA (2000) Handbook of polyethylene: structures, properties and applications. Marcel Dekker, New York"
-Data,hasCitation,"Lichtenecker K, Rother K (1931) Phys Zeit 32:255"
-Data,hasCitation,"Maxwell-Ganet JC (1904) Philos Trans Roy Soc Lond Ser A 203:385"
-Data,hasCitation,"Landau LD, Lifshitz EM (1984) Electrodynamics of continuous media, 2nd edn. Pergamon Press, Oxford"
-Data,hasCitation,"Jonscher AK (1983) Dielectric relaxation of solids. Chelsea Dielectric Press"
-Data,hasCitation,"O’Konski J (1960) J Phys Chem 64:605"
-Data,hasCitation,"Maeta S, Sakaguchi K (1980) Jpn J Appl Phys 19/3:519"
-Data,hasCitation,"Van Turnhout J (1975) Thermally stimulated discharge for polymer electrets. Elsevier, Amsterdam"
-Data,hasCitation,"Raju GG (2003) Dielectrics in electric fields. Marcel Dekker, New York"
-Data,hasCitation,"Many A, Rakavy G (1962) Theory of transient-space-chargelimited currents in solids in the presence of trapping. Phys Rev 126/6:1980"
-Data,hasCitation,"Roy M, Nelson JK, Schadler LS, Zou C, Fothergill JC (2005) Ann Rep conf on Electrical Insulation and Dielectric Phenomenon, IEEE, pp 183–186"
-Data,hasCitation,"Artbauer J (1996) J Phys D Appl Phys 29:446"
-Data,hasComputationalProcess,XPS data analysis
-Data,hasComputationalProcess,Stoichiometry calculation
-Data,hasComputationalProcess,Breakdown data analysis
-Data,hasComputationalProcess,Permittivity calculation
-Data,hasComputationalProcess,Activation energy calculation
-Data,hasComputationalProcess,Trap depth evaluation
-Data,hasComputationalProcess,Mobility estimation
-Data,hasComputationalProcess,Defect size analysis
-Data,hasFile,Fig. 1
-Data,hasFile,Fig. 7
-Data,hasFile,Fig. 9
-Data,hasFile,Table 1
-Data,hasFile,Table 2
-Data,hasFile,Table 5
-Data,hasFile,Table 6
-Data,hasExperiment,Electron Paramagnetic Resonance spectroscopy
-Data,hasExperiment,X-ray Photoelectron Spectroscopy
-Data,hasExperiment,DC breakdown strength measurement
-Data,hasExperiment,Long-term voltage endurance test
-Data,hasExperiment,Dielectric spectroscopy
-Data,hasExperiment,Thermally stimulated current measurement
-Data,hasExperiment,Absorption current measurement
-Data,hasExperiment,Space charge measurement
-Data,hasMaterial,Polyethylene–SiO2 composite
-Data,hasMaterial,Polyethylene
-Data,hasMaterial,SiO2
-Data,hasMaterial,Antioxidant
-Data,hasMaterial,Dicumyl peroxide
-Data,hasMaterial,Triethoxyvinylsilane
-Data,hasMaterial,n-(2-aminoethyl) 3-aminopropyltrimethoxysilane
-Data,hasMaterial,Hexamethyldisilazane
-Data,hasMaterial,Cross-linked polyethylene
-Data,hasMaterial,Gold
-Data,hasMaterial,Tungsten
-Data,hasMaterial,Platinum
-Data,hasMaterial,Diphenyl picryl hydrazyl
-Data,hasMaterial,Argon
-Data,hasMaterial,Silicon
-Data,hasMaterial,Oxygen
-Data,hasMaterial,Nitrogen
+"Data","hasSamplePreparation, hasPhysicalProcess","Formulation"
+"Data","hasSamplePreparation, hasPhysicalProcess","Melt mixing"
+"Data","hasSamplePreparation, hasPhysicalProcess","Compounding"
+"Data","hasSamplePreparation, hasPhysicalProcess","Vacuum drying"
+"Data","hasSamplePreparation, hasPhysicalProcess","Hot pressing"
+"Data","hasSamplePreparation, hasPhysicalProcess","Slow cooling"
+"Data","hasSamplePreparation, hasPhysicalProcess","Post-curing"
+"Data","hasSamplePreparation, hasPhysicalProcess","Annealing"
+"Data","hasSamplePreparation, hasPhysicalProcess","Sputtering"
+"Data","hasSamplePreparation, hasPhysicalProcess","Cryo-crushing"
+"Data","hasSamplePreparation, hasPhysicalProcess","Argon cleaning"
+"Data","hasComputation","Linear least squares optimization"
+"Data","hasComputation","Simplex peak-fitting algorithm"
+"Data","hasComputation","Stoichiometric formula"
+"Data","hasComputation","2-parameter Weibull distribution"
+"Data","hasComputation","Lichtenecker–Rother logarithmic formula"
+"Data","hasComputation","Maxwell–Garnet random mixing formula"
+"Data","hasComputation","Landau–Lifshitz power law formula"
+"Data","hasComputation","Normalization method"
+"Data","hasComputation","Initial rise method"
+"Data","hasComputation","Arrhenius plot"
+"Data","hasComputation","Malec et al. method"
+"Data","hasComputation","Artbauer chain scission mechanism"
+"Data","hasType","Electron Paramagnetic Resonance"
+"Electron Paramagnetic Resonance","asString","Electron Paramagnetic Resonance"
+"Data","hasType","X-ray Photoelectron Spectroscopy"
+"X-ray Photoelectron Spectroscopy","asString","X-ray Photoelectron Spectroscopy"
+"Data","hasType","DC breakdown strength"
+"DC breakdown strength","asString","DC breakdown strength"
+"Data","hasType","Long-term voltage endurance"
+"Long-term voltage endurance","asString","Long-term voltage endurance"
+"Data","hasType","Dielectric spectroscopy"
+"Dielectric spectroscopy","asString","Dielectric spectroscopy"
+"Data","hasType","Thermally stimulated current"
+"Thermally stimulated current","asString","Thermally stimulated current"
+"Data","hasType","Absorption current"
+"Absorption current","asString","Absorption current"
+"Data","hasType","Space charge measurements"
+"Space charge measurements","asString","Space charge measurements"
+"Data","hasCitation","doi:10.1007/s10853-006-0413-0"
+"Data","hasCitation","Nelson J, Fothergill JC (2004) Nanotechnology 15:586"
+"Data","hasCitation","Ma D, Siegel RW, Hong JI, Schadler LS, Mårtensson E, Önneby C (2004) J Mater Res 19(3):857"
+"Data","hasCitation","Nelson JK, Hu Y (2005) J Phys D (Appl Phys) 38:213"
+"Data","hasCitation","Nelson JK, Fothergill JC, Dissado LA, Peasgood W (2002) In: Proceedings of the conference on Elec Insul & Dielec Phenom, IEEE, Mexico, pp 295–298"
+"Data","hasCitation","Montanari GC, Fabiani D, Palmieri F, Kaempfer D, Thomann R, Mülhaupt R (2004) IEEE Trans Diel Elect Insul 11(5):754"
+"Data","hasCitation","Ajayan PM, Braun PV, Schadler LS (2003) In: Nanocomposite Science and Technology, Wiley-VCH Verlag, GmbH&Co. KgaA, Weinham"
+"Data","hasCitation","Tanaka T, Montanari GC, Mülhaupt R (2004) IEEE Trans Diel Elect Insul 11/5:763"
+"Data","hasCitation","Lewis TJ (1994) IEEE Trans Diel Elect Insul 1:812"
+"Data","hasCitation","Lewis TJ (2004) IEEE Trans Diel Elect Insul 11:739"
+"Data","hasCitation","Fujita F, Ruike M, Baba M (1996) Conference record of the 1996. IEEE Intl Symp Elec Ins, IEEE, San Francisco 2:738"
+"Data","hasCitation","Khalil MS, Henk PO, Henriksen M (1990) Conference record of the 1990 IEEE International Symp on Elec. Insul; IEEE, Montreal, Canada, p 268"
+"Data","hasCitation","Fothergill JC, Nelson JK, Fu M (2004) Proceedings of the IEEE Conf on Elect Insul & Diel Phenom, CEIDP, Oct. 17– 20. pp 406–409"
+"Data","hasCitation","Ma D, Akpalu YA, Li Y, Siegel RW, Schadler LS (2005) J Polym Sci Part B Polym Phys 43(5):463"
+"Data","hasCitation","Malec D, Truong H, Essolbi R, Hoand TG (1998) IEEE Trans Diel Elect Insul 5/2:301"
+"Data","hasCitation","Roy M, Nelson JK, MacCrone RK, Schadler LS, Reed CW, Keefe R, Zenger W (2005) IEEE Trans Diel Elect Insul 12:629"
+"Data","hasCitation","Lunsford JH (1973) Catal Rev 8(1):135"
+"Data","hasCitation","Canet D (1996) Nuclear magnetic resonance: concepts and methods. John Wiley & Sons Inc., Chichester, New York"
+"Data","hasCitation","Dissado LA, Fothergill JC (1992) Electrical degradation and breakdown in polymers. Peter Peregrinus Ltd"
+"Data","hasCitation","Ieda M, Mizutani T, Suzuoki Y (1980) Polymers, Memoirs of the Faculty of Engineering, Nagoya University, 32/2"
+"Data","hasCitation","Peacock JA (2000) Handbook of polyethylene: structures, properties and applications. Marcel Dekker, New York"
+"Data","hasCitation","Lichtenecker K, Rother K (1931) Phys Zeit 32:255"
+"Data","hasCitation","Maxwell-Ganet JC (1904) Philos Trans Roy Soc Lond Ser A 203:385"
+"Data","hasCitation","Landau LD, Lifshitz EM (1984) Electrodynamics of continuous media, 2nd edn. Pergamon Press, Oxford"
+"Data","hasCitation","Jonscher AK (1983) Dielectric relaxation of solids. Chelsea Dielectric Press"
+"Data","hasCitation","O’Konski J (1960) J Phys Chem 64:605"
+"Data","hasCitation","Maeta S, Sakaguchi K (1980) Jpn J Appl Phys 19/3:519"
+"Data","hasCitation","Van Turnhout J (1975) Thermally stimulated discharge for polymer electrets. Elsevier, Amsterdam"
+"Data","hasCitation","Raju GG (2003) Dielectrics in electric fields. Marcel Dekker, New York"
+"Data","hasCitation","Many A, Rakavy G (1962) Theory of transient-space-chargelimited currents in solids in the presence of trapping. Phys Rev 126/6:1980"
+"Data","hasCitation","Roy M, Nelson JK, Schadler LS, Zou C, Fothergill JC (2005) Ann Rep conf on Electrical Insulation and Dielectric Phenomenon, IEEE, pp 183–186"
+"Data","hasCitation","Artbauer J (1996) J Phys D Appl Phys 29:446"
+"Data","hasComputationalProcess","XPS data analysis"
+"Data","hasComputationalProcess","Stoichiometry calculation"
+"Data","hasComputationalProcess","Breakdown data analysis"
+"Data","hasComputationalProcess","Permittivity calculation"
+"Data","hasComputationalProcess","Activation energy calculation"
+"Data","hasComputationalProcess","Trap depth evaluation"
+"Data","hasComputationalProcess","Mobility estimation"
+"Data","hasComputationalProcess","Defect size analysis"
+"Data","hasFile","Fig. 1"
+"Data","hasFile","Fig. 7"
+"Data","hasFile","Fig. 9"
+"Data","hasFile","Table 1"
+"Data","hasFile","Table 2"
+"Data","hasFile","Table 5"
+"Data","hasFile","Table 6"
+"Data","hasExperiment","Electron Paramagnetic Resonance spectroscopy"
+"Data","hasExperiment","X-ray Photoelectron Spectroscopy"
+"Data","hasExperiment","DC breakdown strength measurement"
+"Data","hasExperiment","Long-term voltage endurance test"
+"Data","hasExperiment","Dielectric spectroscopy"
+"Data","hasExperiment","Thermally stimulated current measurement"
+"Data","hasExperiment","Absorption current measurement"
+"Data","hasExperiment","Space charge measurement"
+"Data","hasMaterial","Polyethylene–SiO2 composite"
+"Data","hasMaterial","Polyethylene"
+"Data","hasMaterial","SiO2"
+"Data","hasMaterial","Antioxidant"
+"Data","hasMaterial","Dicumyl peroxide"
+"Data","hasMaterial","Triethoxyvinylsilane"
+"Data","hasMaterial","n-(2-aminoethyl) 3-aminopropyltrimethoxysilane"
+"Data","hasMaterial","Hexamethyldisilazane"
+"Data","hasMaterial","Cross-linked polyethylene"
+"Data","hasMaterial","Gold"
+"Data","hasMaterial","Tungsten"
+"Data","hasMaterial","Platinum"
+"Data","hasMaterial","Diphenyl picryl hydrazyl"
+"Data","hasMaterial","Argon"
+"Data","hasMaterial","Silicon"
+"Data","hasMaterial","Oxygen"
+"Data","hasMaterial","Nitrogen"

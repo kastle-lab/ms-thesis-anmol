@@ -1,4 +1,3 @@
-"subject","predicate","object"
 "CoolingRate","subClassOf","CalorimetryCharacteristic"
 "DifferentialScanningCalorimetry","subClassOf","ThermochemicalMethod"
 "FourierTransformInfraredSpectroscopy","subClassOf","Spectroscopy"

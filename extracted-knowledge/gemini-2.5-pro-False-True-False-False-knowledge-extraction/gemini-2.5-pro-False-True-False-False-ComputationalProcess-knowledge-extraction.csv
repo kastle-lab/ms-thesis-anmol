@@ -1,40 +1,40 @@
-"XPS data analysis",subClassOf,Process
-"XPS data analysis",hasSoftwareConfiguration,"Auger Scan-2 software"
-"XPS data analysis",hasNotes,notes1
-"notes1",asString,"Data gathered were analyzed using Auger Scan-2 software, which employs a linear least squares optimization with a simplex peak-fitting algorithm."
-"XPS data analysis",hasNotes,notes2
-"notes2",asString,"The four possible chemical structures of silicon in its four oxidation states (Si [+], Si [2+], Si [3+] and Si [4+] ) were considered for analyzing the XPS data."
-"XPS data analysis",hasNotes,notes3
-"notes3",asString,"The Si-2p peak is fitted with a symmetrical Gaussian fit and in each fit the alternative peak positions were kept at the same width while the intensity was adjusted."
-"XPS data analysis",hasNotes,notes4
-"notes4",asString,"From the intensity of the peaks the stoichiometric formula SiOx was calculated using the formula: x = (Σ(i=1 to 4) n_i * H_i) / (Σ(i=1 to 4) H_i), where n is the oxidation state of silicon and H is the peak intensity."
+"XPS data analysis","subClassOf","Process"
+"XPS data analysis","hasSoftwareConfiguration","Auger Scan-2 software"
+"XPS data analysis","hasNotes","notes1"
+"notes1","asString","Data gathered were analyzed using Auger Scan-2 software, which employs a linear least squares optimization with a simplex peak-fitting algorithm."
+"XPS data analysis","hasNotes","notes2"
+"notes2","asString","The four possible chemical structures of silicon in its four oxidation states (Si [+], Si [2+], Si [3+] and Si [4+] ) were considered for analyzing the XPS data."
+"XPS data analysis","hasNotes","notes3"
+"notes3","asString","The Si-2p peak is fitted with a symmetrical Gaussian fit and in each fit the alternative peak positions were kept at the same width while the intensity was adjusted."
+"XPS data analysis","hasNotes","notes4"
+"notes4","asString","From the intensity of the peaks the stoichiometric formula SiOx was calculated using the formula: x = (Σ(i=1 to 4) n_i * H_i) / (Σ(i=1 to 4) H_i), where n is the oxidation state of silicon and H is the peak intensity."
 "XPS data analysis","hasInputData, hasOutputData","XPS data"
 "XPS data analysis","hasInputData, hasOutputData","Si 2p binding energies"
 "XPS data analysis","hasInputData, hasOutputData","stoichiometric formula SiOx"
 "XPS data analysis","hasInputData, hasOutputData","surface chemistry characteristics"
-"Weibull distribution analysis",subClassOf,Process
-"Weibull distribution analysis",hasNotes,notes5
-"notes5",asString,"A conventional 2-parameter Weibull distribution was used to analyze the breakdown data. The cumulative probability P of the electrical failure takes the form of: P = 1 - exp[-(E/E0)^b], where b is a shape parameter and E0 is a scale parameter that represents the breakdown strength at the cumulative failure probability of 63.2%."
+"Weibull distribution analysis","subClassOf","Process"
+"Weibull distribution analysis","hasNotes","notes5"
+"notes5","asString","A conventional 2-parameter Weibull distribution was used to analyze the breakdown data. The cumulative probability P of the electrical failure takes the form of: P = 1 - exp[-(E/E0)^b], where b is a shape parameter and E0 is a scale parameter that represents the breakdown strength at the cumulative failure probability of 63.2%."
 "Weibull distribution analysis","hasInputData, hasOutputData","breakdown data"
 "Weibull distribution analysis","hasInputData, hasOutputData","shape parameter b"
 "Weibull distribution analysis","hasInputData, hasOutputData","scale parameter E0"
-"Activation energy calculation",subClassOf,Process
-"Activation energy calculation",hasNotes,notes6
-"notes6",asString,"The activation energy for the low frequency dispersion was calculated by the normalization method by shifting the imaginary part of the frequency spectra laterally and then determining the frequency shift required to bring the curves into coincidence."
+"Activation energy calculation","subClassOf","Process"
+"Activation energy calculation","hasNotes","notes6"
+"notes6","asString","The activation energy for the low frequency dispersion was calculated by the normalization method by shifting the imaginary part of the frequency spectra laterally and then determining the frequency shift required to bring the curves into coincidence."
 "Activation energy calculation","hasInputData, hasOutputData","imaginary part of the frequency spectra"
 "Activation energy calculation","hasInputData, hasOutputData","Activation energy"
-"Trap depth evaluation",subClassOf,Process
-"Trap depth evaluation",hasNotes,notes7
-"notes7",asString,"The depth of the trap sites was evaluated using the ‘initial rise method’. The trap depth was determined from the slope of an Arrhenius plot."
+"Trap depth evaluation","subClassOf","Process"
+"Trap depth evaluation","hasNotes","notes7"
+"notes7","asString","The depth of the trap sites was evaluated using the ‘initial rise method’. The trap depth was determined from the slope of an Arrhenius plot."
 "Trap depth evaluation","hasInputData, hasOutputData","TSC spectra"
 "Trap depth evaluation","hasInputData, hasOutputData","Trap depth"
-"Mobility estimation",subClassOf,Process
-"Mobility estimation",hasNotes,notes8
-"notes8",asString,"The mobility of the charge carriers is estimated using the method documented by Malec et al. [14], using the formula l = 0.786 * d^2 / (tp * V), where l is the mobility of the charge carriers, d is the sample thickness, tp is the time at which absorption current is at its maximum (peak), and V is the applied voltage."
+"Mobility estimation","subClassOf","Process"
+"Mobility estimation","hasNotes","notes8"
+"notes8","asString","The mobility of the charge carriers is estimated using the method documented by Malec et al. [14], using the formula l = 0.786 * d^2 / (tp * V), where l is the mobility of the charge carriers, d is the sample thickness, tp is the time at which absorption current is at its maximum (peak), and V is the applied voltage."
 "Mobility estimation","hasInputData, hasOutputData","absorption current data"
 "Mobility estimation","hasInputData, hasOutputData","mobility of the charge carriers"
-"Defect size distribution analysis",subClassOf,Process
-"Defect size distribution analysis",hasNotes,notes9
-"notes9",asString,"An analysis of breakdown strength dependent on size of the defect is conducted. By replotting the breakdown data in the form of ln(–ln[1 – PF]) versus 1/E, information about the size of the defects can be obtained."
+"Defect size distribution analysis","subClassOf","Process"
+"Defect size distribution analysis","hasNotes","notes9"
+"notes9","asString","An analysis of breakdown strength dependent on size of the defect is conducted. By replotting the breakdown data in the form of ln(–ln[1 – PF]) versus 1/E, information about the size of the defects can be obtained."
 "Defect size distribution analysis","hasInputData, hasOutputData","breakdown data"
 "Defect size distribution analysis","hasInputData, hasOutputData","defect size distribution"

@@ -1,4 +1,3 @@
-"subject","predicate","object"
 "Experiment","hasData","Data"
 "Experiment","hasCollection","Collection"
 "Project","hasMaterial","Material"
