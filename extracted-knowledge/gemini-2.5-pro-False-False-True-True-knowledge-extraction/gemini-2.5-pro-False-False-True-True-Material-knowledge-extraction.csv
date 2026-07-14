@@ -1,0 +1,125 @@
+XLPE + 5 wt% micron scale silica,hasParentMaterial,XLPE
+XLPE + 5 wt% micron scale silica,hasComponent,micron scale silica
+XLPE + 5 wt% untreated nanosilica,hasParentMaterial,XLPE
+XLPE + 5 wt% untreated nanosilica,hasComponent,nanoscale silica
+XLPE + 5 wt% AEAPS treated nanosilica,hasParentMaterial,XLPE
+XLPE + 5 wt% AEAPS treated nanosilica,hasComponent,AEAPS treated nanosilica
+XLPE + 5 wt% HMDS treated nanosilica,hasParentMaterial,XLPE
+XLPE + 5 wt% HMDS treated nanosilica,hasComponent,HMDS treated nanosilica
+XLPE + 5 wt% TES treated nanosilica,hasParentMaterial,XLPE
+XLPE + 5 wt% TES treated nanosilica,hasComponent,TES treated nanosilica
+AEAPS treated nanosilica,hasParentMaterial,nanoscale silica
+HMDS treated nanosilica,hasParentMaterial,nanoscale silica
+TES treated nanosilica,hasParentMaterial,nanoscale silica
+AEAPS treated nanosilica,hasComponent,n-(2-aminoethyl) 3-aminopropyltrimethoxysilane
+HMDS treated nanosilica,hasComponent,hexamethyldisilazane
+TES treated nanosilica,hasComponent,triethoxyvinylsilane
+XLPE,hasComponent,antioxidants
+XLPE,hasComponent,dicumyl peroxide
+Polyethylene–SiO 2 composites,hasPhysicalProcess,melt mixing
+Polyethylene–SiO 2 composites,hasPhysicalProcess,hot pressing
+Polyethylene–SiO 2 composites,hasPhysicalProcess,slow cooling
+Polyethylene–SiO 2 composites,hasPhysicalProcess,post-curing under vacuum
+silica nanoparticles,hasPhysicalProcess,vacuum drying
+micron scale particulates,hasPhysicalProcess,vacuum drying
+composites,hasPhysicalProcess,cryo-crushing
+Polyethylene–SiO 2 composites,hasProject,Electric Power Research Institute supported activity
+Micron Scale silica,hasProperty,PeakEPRSignal: 550 a.u.
+Nanoscale silica,hasProperty,PeakEPRSignal: 6000 a.u.
+AEAPS treated nanosilica,hasProperty,PeakEPRSignal: 250 a.u.
+HMDS treated nanosilica,hasProperty,PeakEPRSignal: 550 a.u.
+TES treated nanosilica,hasProperty,PeakEPRSignal: 550 a.u.
+XLPE + 5 wt% micron scale silica,hasProperty,PeakEPRSignal: 1600 a.u.
+XLPE + 5 wt% untreated nanosilica,hasProperty,PeakEPRSignal: 6600 a.u.
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,PeakEPRSignal: 1600 a.u.
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,PeakEPRSignal: 600 a.u.
+XLPE + 5 wt% TES treated nanosilica,hasProperty,PeakEPRSignal: 1300 a.u.
+AEAPS treated nanosilica,hasProperty,Stoichiometry: SiO~1.0
+HMDS treated nanosilica,hasProperty,Stoichiometry: SiO~1.0
+TES treated nanosilica,hasProperty,Stoichiometry: SiO~1.0
+Nanoscale silica,hasProperty,Stoichiometry: SiO~1.3
+Micron Scale silica,hasProperty,Stoichiometry: SiO~1.3
+XLPE,hasProperty,Crystallinity: ~40 %
+XLPE + 5 wt% micron scale silica,hasProperty,Crystallinity: ~40 %
+XLPE + 5 wt% untreated nanosilica,hasProperty,Crystallinity: ~40 %
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,Crystallinity: ~40 %
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,Crystallinity: ~40 %
+XLPE + 5 wt% TES treated nanosilica,hasProperty,Crystallinity: ~60 %
+XLPE,hasProperty,CharacteristicBreakdownVoltage: 269 kV/mm (at 25 C)
+XLPE,hasProperty,WeibullShapeParameter: 2.49 (at 25 C)
+XLPE,hasProperty,CharacteristicBreakdownVoltage: 183 kV/mm (at 60 C)
+XLPE,hasProperty,WeibullShapeParameter: 2.65 (at 60 C)
+XLPE,hasProperty,CharacteristicBreakdownVoltage: 129 kV/mm (at 70 C)
+XLPE,hasProperty,WeibullShapeParameter: 3.66 (at 70 C)
+XLPE,hasProperty,CharacteristicBreakdownVoltage: 79 kV/mm (at 80 C)
+XLPE,hasProperty,WeibullShapeParameter: 3.84 (at 80 C)
+XLPE + 5 wt% untreated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 314 kV/mm (at 25 C)
+XLPE + 5 wt% untreated nanosilica,hasProperty,WeibullShapeParameter: 2.07 (at 25 C)
+XLPE + 5 wt% untreated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 260 kV/mm (at 60 C)
+XLPE + 5 wt% untreated nanosilica,hasProperty,WeibullShapeParameter: 2.27 (at 60 C)
+XLPE + 5 wt% untreated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 213 kV/mm (at 70 C)
+XLPE + 5 wt% untreated nanosilica,hasProperty,WeibullShapeParameter: 2.49 (at 70 C)
+XLPE + 5 wt% untreated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 83 kV/mm (at 80 C)
+XLPE + 5 wt% untreated nanosilica,hasProperty,WeibullShapeParameter: 3.09 (at 80 C)
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 400 kV/mm (at 25 C)
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,WeibullShapeParameter: 1.69 (at 25 C)
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 266 kV/mm (at 60 C)
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,WeibullShapeParameter: 2.20 (at 60 C)
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 263 kV/mm (at 70 C)
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,WeibullShapeParameter: 1.79 (at 70 C)
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 134 kV/mm (at 80 C)
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,WeibullShapeParameter: 2.11 (at 80 C)
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 336 kV/mm (at 25 C)
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,WeibullShapeParameter: 1.69 (at 25 C)
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 225 kV/mm (at 60 C)
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,WeibullShapeParameter: 1.97 (at 60 C)
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 208 kV/mm (at 70 C)
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,WeibullShapeParameter: 2.14 (at 70 C)
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 128 kV/mm (at 80 C)
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,WeibullShapeParameter: 2.09 (at 80 C)
+XLPE + 5 wt% TES treated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 446 kV/mm (at 25 C)
+XLPE + 5 wt% TES treated nanosilica,hasProperty,WeibullShapeParameter: 1.73 (at 25 C)
+XLPE + 5 wt% TES treated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 422 kV/mm (at 60 C)
+XLPE + 5 wt% TES treated nanosilica,hasProperty,WeibullShapeParameter: 2.22 (at 60 C)
+XLPE + 5 wt% TES treated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 344 kV/mm (at 70 C)
+XLPE + 5 wt% TES treated nanosilica,hasProperty,WeibullShapeParameter: 2.17 (at 70 C)
+XLPE + 5 wt% TES treated nanosilica,hasProperty,CharacteristicBreakdownVoltage: 220 kV/mm (at 80 C)
+XLPE + 5 wt% TES treated nanosilica,hasProperty,WeibullShapeParameter: 2.87 (at 80 C)
+XLPE,hasProperty,Lifetime: < 2 hours (at tip stress > 500 kV/mm)
+XLPE,hasProperty,Lifetime: < 1 hour (at tip stress 600 kV/mm)
+XLPE,hasProperty,Permittivity: 2.2 (at 60 Hz)
+XLPE + 5 wt% micron scale silica,hasProperty,Permittivity: 3.14 (at 60 Hz)
+XLPE + 5 wt% untreated nanosilica,hasProperty,ActivationEnergy: 0.18 ± 0.05 eV
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,ActivationEnergy: 0.34 ± 0.07 eV
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,ActivationEnergy: 0.31 ± 0.04 eV
+XLPE + 5 wt% TES treated nanosilica,hasProperty,ActivationEnergy: 0.18 ± 0.09 eV
+XLPE + 5 wt% micron scale silica,hasProperty,ActivationEnergy: 0.28 ± 0.06 eV
+XLPE + 5 wt% micron scale silica,hasProperty,C4_PeakTemperature: ~54 C
+XLPE + 5 wt% untreated nanosilica,hasProperty,C4_PeakTemperature: ~54 C
+XLPE,hasProperty,C4_PeakTemperature: ~54 C
+XLPE + 5 wt% untreated nanosilica,hasProperty,q_PeakTemperature: 78 C
+XLPE + 5 wt% TES treated nanosilica,hasProperty,C4_PeakTemperature: ~59 C
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,C4_PeakTemperature: 51 C
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,C4_PeakTemperature: 47 C
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,HighTemperatureTSCPeak: 91 C
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,HighTemperatureTSCPeak: 91 C
+XLPE + 5 wt% untreated nanosilica,hasProperty,TrapDepth_C5_peak: 0.37 ± 0.1 eV
+XLPE + 5 wt% untreated nanosilica,hasProperty,TrapDepth_C4_peak: 1.1 ± 0.1 eV
+XLPE + 5 wt% micron scale silica,hasProperty,TrapDepth_C5_peak: 0.35 ± 0.1 eV
+XLPE + 5 wt% micron scale silica,hasProperty,TrapDepth_C4_peak: 1.1 ± 0.1 eV
+XLPE + 5 wt% TES treated nanosilica,hasProperty,TrapDepth_C5_peak: 0.41 ± 0.1 eV
+XLPE + 5 wt% TES treated nanosilica,hasProperty,TrapDepth_C4_peak: 1.12 ± 0.1 eV
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,TrapDepth_C5_peak: 2.4 ± 0.1 eV
+XLPE + 5 wt% AEAPS treated nanosilica,hasProperty,TrapDepth_C4_peak: 1.12 ± 0.1 eV
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,TrapDepth_C5_peak: 2.0 ± 0.1 eV
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,TrapDepth_C4_peak: 1.14 ± 0.1 eV
+XLPE,hasProperty,PositiveThresholdField: 13 kV/mm
+XLPE,hasProperty,NegativeThresholdField: -13 kV/mm
+XLPE + 5 wt% micron scale silica,hasProperty,PositiveThresholdField: 15 kV/mm
+XLPE + 5 wt% micron scale silica,hasProperty,NegativeThresholdField: -13 kV/mm
+XLPE + 5 wt% untreated nanosilica,hasProperty,PositiveThresholdField: 12 kV/mm
+XLPE + 5 wt% untreated nanosilica,hasProperty,NegativeThresholdField: -14 kV/mm
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,PositiveThresholdField: 29 kV/mm
+XLPE + 5 wt% HMDS treated nanosilica,hasProperty,NegativeThresholdField: -29 kV/mm
+XLPE + 5 wt% TES treated nanosilica,hasProperty,PositiveThresholdField: 25 kV/mm
+XLPE + 5 wt% TES treated nanosilica,hasProperty,NegativeThresholdField: -26 kV/mm

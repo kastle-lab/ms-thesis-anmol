@@ -1,0 +1,18 @@
+_:Journal_1,asString,"J Mater Sci"
+_:Reference_1,:doi,"10.1007/s10853-006-0413-0"
+_:Reference_1,hasPublicationYear,"2007"
+_:Reference_1,:volume,"42"
+_:Reference_1,hasTitle,"Candidate mechanisms controlling the electrical characteristics of silica/XLPE nanodielectrics"
+_:Reference_1,hasJournal,_:Journal_1
+_:Reference_1,;pageStart,"3789"
+_:Reference_1,:pageEnd,"3799"
+_:Publisher_1,asString,"Springer Science+Business Media, LLC"
+_:Author_1,asString,"Mihir Roy"
+_:Author_2,asString,"J. Keith Nelson"
+_:Author_3,asString,"R. K. MacCrone"
+_:Author_4,asString,"L. S. Schadler"
+_:Reference_1,hasAuthor,_:Author_1
+_:Reference_1,hasAuthor,_:Author_2
+_:Reference_1,hasAuthor,_:Author_3
+_:Reference_1,hasAuthor,_:Author_4
+_:Reference_1,dcterms:publisher,_:Publisher_1

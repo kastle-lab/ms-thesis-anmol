@@ -1,0 +1,98 @@
+melt mixing,subClassOf,Process
+melt mixing,hasPrerequisiteProcess,vacuum drying
+melt mixing,hasProduct,composites
+melt mixing,hasDescription,desc_melt_mixing
+desc_melt_mixing,asString,"melt mixed until the aggregate size was less than 100 nm as measured using scanning electron microscopy"
+melt mixing,hasKeyword,kw_melt_processing
+kw_melt_processing,asString,Melt processing
+vacuum drying,subClassOf,Process
+vacuum drying,hasDescription,desc_vacuum_drying
+desc_vacuum_drying,asString,"vacuum dried for 24 h"
+vacuum drying,hasProduct,dried particles
+compounding,subClassOf,Process
+compounding,hasPrerequisiteProcess,vacuum drying
+hot pressing,subClassOf,Process
+hot pressing,hasPrerequisiteProcess,melt mixing
+hot pressing,hasProduct,samples
+slow cooling,subClassOf,Process
+slow cooling,hasPrerequisiteProcess,hot pressing
+slow cooling,hasDescription,desc_slow_cooling
+desc_slow_cooling,asString,"allowed to cool slowly to room temperature, keeping the pressure constant"
+slow cooling,hasProduct,samples
+post-curing,subClassOf,Process
+post-curing,hasPrerequisiteProcess,slow cooling
+post-curing,hasDescription,desc_post_curing
+desc_post_curing,asString,"post-cured under vacuum"
+post-curing,hasProduct,post-cured samples
+post-curing,hasKeyword,kw_post_cure_annealing
+kw_post_cure_annealing,asString,post-cure annealing
+metallization,subClassOf,Process
+metallization,hasDescription,desc_metallization
+desc_metallization,asString,"metallized with ~150 A [˚ ] of sputtered gold"
+metallization,hasProduct,metallized samples
+EPR measurement,subClassOf,Process
+EPR measurement,hasEquipment,Bruker ER 042 EPR spectrometer
+EPR measurement,hasEquipment,Walker Hall probe Tesla meter
+EPR measurement,hasKeyword,kw_EPR
+kw_EPR,asString,Electron Paramagnetic Resonance
+EPR measurement,hasKeyword,kw_EPR_acronym
+kw_EPR_acronym,asString,EPR
+XPS analysis,subClassOf,Process
+XPS analysis,hasEquipment,Perkin Elmer (Model # 5500)
+XPS analysis,hasDescription,desc_XPS_radiation
+desc_XPS_radiation,asString,"using MgK a monochromatic radiation"
+XPS analysis,hasKeyword,kw_XPS
+kw_XPS,asString,X-ray Photoelectron Spectroscopy
+XPS analysis,hasKeyword,kw_XPS_acronym
+kw_XPS_acronym,asString,XPS
+argon cleaning,subClassOf,Process
+argon cleaning,hasDescription,desc_argon_cleaning
+desc_argon_cleaning,asString,"3 min, 6 min and 9 min of argon cleaning"
+DC breakdown strength measurement,subClassOf,Process
+DC breakdown strength measurement,hasLocation,thermostatically controlled enclosure
+DC breakdown strength measurement,hasEquipment,high-voltage source
+DC breakdown strength measurement,hasPrerequisiteProcess,recessed sample creation
+DC breakdown strength measurement,hasPrerequisiteProcess,metallization
+DC breakdown strength measurement,hasDescription,desc_dc_breakdown_1
+desc_dc_breakdown_1,asString,"ramp rate of 500 V s [–1] applied to the metallized electrodes"
+DC breakdown strength measurement,hasDescription,desc_dc_breakdown_2
+desc_dc_breakdown_2,asString,"conducted at four different temperatures (25 C, 60 C, 70 C, and 80 C)"
+DC breakdown strength measurement,hasKeyword,kw_dc_breakdown
+kw_dc_breakdown,asString,DC breakdown strength
+recessed sample creation,subClassOf,Process
+recessed sample creation,hasEquipment,a mold
+recessed sample creation,hasDescription,desc_recessed_sample
+desc_recessed_sample,asString,"allowed 25 samples to be prepared on a single wafer"
+recessed sample creation,hasProduct,recessed samples
+long-term voltage endurance tests,subClassOf,Process
+long-term voltage endurance tests,hasDescription,desc_voltage_endurance
+desc_voltage_endurance,asString,"stressed with a 60 Hz alternating voltage"
+long-term voltage endurance tests,hasKeyword,kw_voltage_endurance
+kw_voltage_endurance,asString,Long-term voltage endurance tests
+dielectric spectroscopic measurements,subClassOf,Process
+dielectric spectroscopic measurements,hasEquipment,Novocontrol Alpha Analyzer (type K)
+dielectric spectroscopic measurements,hasEquipment,Novocontrol active BDS-1200 sample cell
+dielectric spectroscopic measurements,hasDescription,desc_dielectric_spectroscopy
+desc_dielectric_spectroscopy,asString,"completed at 25 C, 60 C, 70 C, and 80 C"
+dielectric spectroscopic measurements,hasKeyword,kw_dielectric_spectroscopy
+kw_dielectric_spectroscopy,asString,Dielectric spectroscopic measurements
+TSC measurements,subClassOf,Process
+TSC measurements,hasPrerequisiteProcess,sputter deposition of platinum electrodes
+TSC measurements,hasDescription,desc_tsc_1
+desc_tsc_1,asString,"poling temperature used for all samples was 60 C"
+TSC measurements,hasDescription,desc_tsc_2
+desc_tsc_2,asString,"temperature ramp rate for the TSC measurements was 2 C/min from 40 C to 100 C"
+TSC measurements,hasKeyword,kw_tsc
+kw_tsc,asString,Thermally stimulated current
+TSC measurements,hasKeyword,kw_tsc_acronym
+kw_tsc_acronym,asString,TSC
+sputter deposition of platinum electrodes,subClassOf,Process
+sputter deposition of platinum electrodes,hasProduct,platinum electrodes
+absorption current measurements,subClassOf,Process
+absorption current measurements,hasEquipment,Keithley 8009 Resistivity Test Fixture
+absorption current measurements,hasDescription,desc_absorption_current_1
+desc_absorption_current_1,asString,"performed at room temperature (298 ± 3 K)"
+absorption current measurements,hasDescription,desc_absorption_current_2
+desc_absorption_current_2,asString,"performed over a range of electric fields from 10 [5] V/m to 3 · 10 [7] V/m"
+absorption current measurements,hasKeyword,kw_absorption_current
+kw_absorption_current,asString,Absorption current

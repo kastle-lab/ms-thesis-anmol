@@ -1,0 +1,32 @@
+compounding,hasPrerequisiteProcess,"vacuum drying"
+compounding,"hasProduct, hasWaste","Polyethylene–SiO 2 composites"
+metallization,"hasProduct, hasWaste","sputtered gold"
+"Electron Paramagnetic Resonance (EPR)",hasEquipment,"Bruker ER 042 EPR spectrometer"
+"Electron Paramagnetic Resonance (EPR)",hasEquipment,"Walker Hall probe Tesla meter"
+"X-ray Photoelectron Spectroscopy (XPS)",hasEquipment,"Perkin Elmer (Model # 5500)"
+"DC breakdown strength measurement",hasEquipment,"high-voltage source"
+"Dielectric spectroscopic measurements",hasEquipment,"Novocontrol Alpha Analyzer (type K)"
+"Dielectric spectroscopic measurements",hasEquipment,"Novocontrol active BDS-1200 sample cell"
+"Absorption current measurements",hasEquipment,"Keithley 8009 Resistivity Test Fixture"
+"melt mixing",hasDescription,melt_mixing_desc
+melt_mixing_desc,asString,"melt mixed until the aggregate size was less than 100 nm as measured using scanning electron microscopy"
+"vacuum drying",hasDescription,vacuum_drying_desc
+vacuum_drying_desc,asString,"vacuum dried for 24 h"
+"slow cooling",hasDescription,slow_cooling_desc
+slow_cooling_desc,asString,"allowed to cool slowly to room temperature, keeping the pressure constant"
+"post-curing under vacuum",hasDescription,post_curing_desc
+post_curing_desc,asString,"The samples were post-cured under vacuum which is important since cross-linking byproducts may otherwise affect the electrical properties."
+metallization,hasDescription,metallization_desc
+metallization_desc,asString,"metallized with ~150 Å of sputtered gold"
+"argon cleaning",hasDescription,argon_cleaning_desc
+argon_cleaning_desc,asString,"performed for 3 min, 6 min and 9 min"
+"DC breakdown strength measurement",hasDescription,dc_breakdown_desc
+dc_breakdown_desc,asString,"The withstand strength was determined using a high-voltage source with a ramp rate of 500 V s^-1 applied to the metallized electrodes in a thermostatically controlled enclosure."
+"Long-term voltage endurance tests",hasDescription,voltage_endurance_desc
+voltage_endurance_desc,asString,"carried out using cylindrical blocks of polymer or polymer nanocomposites, embedded with a tungsten electrode of tip radius, r, of approximately 4 µm (for a highly divergent field) and 12 µm (for a less divergent field), with an inter-electrode distance, d, of ~2 mm."
+"Dielectric spectroscopic measurements",hasDescription,dielectric_spectroscopy_desc
+dielectric_spectroscopy_desc,asString,"completed at 25 °C, 60 °C, 70 °C, and 80 °C using a Novocontrol Alpha Analyzer (type K) in combination with a Novocontrol active BDS-1200 sample cell. The laminar samples were approximately 0.5 mm thick with a gold electrode sputtered onto a circular area of 2.2 cm in diameter."
+"Thermally stimulated current (TSC) measurements",hasDescription,tsc_desc
+tsc_desc,asString,"performed using laminar samples of thickness ~100 µm with sputtered deposited platinum electrodes on both sides. The poling temperature used for all samples was 60 °C and the temperature ramp rate for the TSC measurements was 2 °C/min from 40 °C to 100 °C."
+"Absorption current measurements",hasDescription,absorption_current_desc
+absorption_current_desc,asString,"performed utilizing a Keithley 8009 Resistivity Test Fixture on laminar samples of thickness from 50 µm to 500 µm over a range of electric fields from 10^5 V/m to 3·10^7 V/m, and all measurements were performed at room temperature (298 ± 3 K)."

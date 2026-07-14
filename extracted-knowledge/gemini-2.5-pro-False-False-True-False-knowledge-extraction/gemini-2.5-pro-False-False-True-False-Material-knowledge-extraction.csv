@@ -1,0 +1,98 @@
+silica,hasIdentifier,SiO2
+cross-linked polyethylene,hasIdentifier,XLPE
+dicumyl peroxide,hasIdentifier,DCP
+triethoxyvinylsilane,hasIdentifier,TES
+n-(2-aminoethyl) 3-aminopropyltrimethoxysilane,hasIdentifier,AEAPS
+hexamethyldisilazane,hasIdentifier,HMDS
+silica/XLPE nanodielectrics,hasComponent,silica
+silica/XLPE nanodielectrics,hasComponent,XLPE
+XLPE,hasParentMaterial,base polyethylene
+base polyethylene,hasComponent,antioxidants
+base polyethylene,hasComponent,dicumyl peroxide
+nanosilica,hasParentMaterial,silica
+Micron Scale silica,hasParentMaterial,silica
+untreated nanosilica,hasParentMaterial,nanosilica
+TES treated nanosilica,hasComponent,nanosilica
+TES treated nanosilica,hasComponent,triethoxyvinylsilane
+AEAPS treated nanosilica,hasComponent,nanosilica
+AEAPS treated nanosilica,hasComponent,n-(2-aminoethyl) 3-aminopropyltrimethoxysilane
+HMDS treated nanosilica,hasComponent,nanosilica
+HMDS treated nanosilica,hasComponent,hexamethyldisilazane
+XLPE + Micron Scale silica,hasComponent,XLPE
+XLPE + Micron Scale silica,hasComponent,Micron Scale silica
+XLPE + untreated nanosilica,hasComponent,XLPE
+XLPE + untreated nanosilica,hasComponent,untreated nanosilica
+XLPE + AEAPS treated nanosilica,hasComponent,XLPE
+XLPE + AEAPS treated nanosilica,hasComponent,AEAPS treated nanosilica
+XLPE + HMDS treated nanosilica,hasComponent,XLPE
+XLPE + HMDS treated nanosilica,hasComponent,HMDS treated nanosilica
+XLPE + TES treated nanosilica,hasComponent,XLPE
+XLPE + TES treated nanosilica,hasComponent,TES treated nanosilica
+silica/XLPE nanodielectrics,hasKeyword,kw_nanodielectrics
+kw_nanodielectrics,asString,nanodielectrics
+silica/XLPE nanodielectrics,hasKeyword,kw_silica
+kw_silica,asString,silica
+silica/XLPE nanodielectrics,hasKeyword,kw_polyethylene
+kw_polyethylene,asString,polyethylene
+silica/XLPE nanodielectrics,hasKeyword,kw_nanocomposites
+kw_nanocomposites,asString,nanocomposites
+silica/XLPE nanodielectrics,hasKeyword,kw_breakdown_strength
+kw_breakdown_strength,asString,breakdown strength
+silica/XLPE nanodielectrics,hasKeyword,kw_voltage_endurance
+kw_voltage_endurance,asString,voltage endurance
+silica/XLPE nanodielectrics,hasKeyword,kw_interface
+kw_interface,asString,interface
+silica/XLPE nanodielectrics,hasKeyword,kw_surface_treatment
+kw_surface_treatment,asString,surface treatment
+XLPE + untreated nanosilica,subClassOf,nanocomposite
+XLPE + AEAPS treated nanosilica,subClassOf,nanocomposite
+XLPE + HMDS treated nanosilica,subClassOf,nanocomposite
+XLPE + TES treated nanosilica,subClassOf,nanocomposite
+XLPE + Micron Scale silica,subClassOf,microcomposite
+nanocomposite,subClassOf,composite
+microcomposite,subClassOf,composite
+nanosilica,subClassOf,nanoparticle
+polyethylene,subClassOf,polymer
+XLPE,subClassOf,polymer
+silica/XLPE nanodielectrics,subClassOf,nanodielectric
+XLPE,hasProperty,breakdown strength
+XLPE + untreated nanosilica,hasProperty,breakdown strength
+XLPE + AEAPS treated nanosilica,hasProperty,breakdown strength
+XLPE + HMDS treated nanosilica,hasProperty,breakdown strength
+XLPE + TES treated nanosilica,hasProperty,breakdown strength
+XLPE,hasProperty,voltage endurance
+nanocomposites,hasProperty,voltage endurance
+silica/XLPE nanodielectrics,hasProperty,dielectric spectroscopy
+silica/XLPE nanodielectrics,hasProperty,absorption current
+silica/XLPE nanodielectrics,hasProperty,thermally stimulated current
+XLPE,hasProperty,percent crystallinity
+XLPE + Micron Scale silica,hasProperty,percent crystallinity
+XLPE + untreated nanosilica,hasProperty,percent crystallinity
+XLPE + AEAPS treated nanosilica,hasProperty,percent crystallinity
+XLPE + HMDS treated nanosilica,hasProperty,percent crystallinity
+XLPE + TES treated nanosilica,hasProperty,percent crystallinity
+XLPE,hasProperty,permittivity
+XLPE,hasProperty,tan d
+nanocomposites,hasProperty,permittivity
+nanocomposites,hasProperty,tan d
+XLPE + untreated nanosilica,hasProperty,Activation energy
+XLPE + AEAPS treated nanosilica,hasProperty,Activation energy
+XLPE + HMDS treated nanosilica,hasProperty,Activation energy
+XLPE + TES treated nanosilica,hasProperty,Activation energy
+XLPE + Micron Scale silica,hasProperty,Activation energy
+XLPE + untreated nanosilica,hasProperty,Trap depth
+XLPE + Micron Scale silica,hasProperty,Trap depth
+XLPE + TES treated nanosilica,hasProperty,Trap depth
+XLPE + AEAPS treated nanosilica,hasProperty,Trap depth
+XLPE + HMDS treated nanosilica,hasProperty,Trap depth
+nanocomposites,hasProperty,mobility
+XLPE,hasProperty,Threshold field
+XLPE + Micron Scale silica,hasProperty,Threshold field
+XLPE + untreated nanosilica,hasProperty,Threshold field
+XLPE + HMDS treated nanosilica,hasProperty,Threshold field
+XLPE + TES treated nanosilica,hasProperty,Threshold field
+XLPE + Micron Scale silica,hasProperty,breakdown strength
+Polyethylene–SiO 2 composites,hasPhysicalProcess,melt mixing
+Polyethylene–SiO 2 composites,hasPhysicalProcess,hot pressing
+Polyethylene–SiO 2 composites,hasPhysicalProcess,post-curing
+silica/XLPE nanodielectrics,hasProject,Electric Power Research Institute
