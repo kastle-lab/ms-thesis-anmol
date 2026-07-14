@@ -7,6 +7,7 @@ knowledge-extraction-methods-exploration/
 ├── csv/                              # Modular representation of the schema as triples in CSVs (the names of the contained files represent the modules)
 ├── extracted-knowledge/              # The cleaned data-populated triples by LLMs
 ├── .gitignore
+├── Automated-RAP-gemini.py           # Gemini-specific code for LLM pipeline to generate data-populated triples
 ├── Automated-RAP.ipynb               # Code for LLM pipeline to generate data-populated triples
 ├── L156_S2_Roy_2007.xml              # Gold standard XML used as a means of comparison
 ├── LICENSE
